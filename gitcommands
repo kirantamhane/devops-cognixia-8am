@@ -1,0 +1,29 @@
+#ssh-keygen -t rsa -b 4096 -C "kiran_tamhane@yahoo.co.in"
+#eval "$(ssh-agent -s)"
+#ssh-add -k ~/.ssh/id_rsa
+#ssh -T git@github.com
+#git config --global user.email "kiran_tamhane@yahoo.co.in"
+#git config --global user.email "kiran_tamhane"
+#clear
+#git clone https://github.com/kirantamhane/devops-cognixia-8am.git
+#ls -lrt
+#cd devops-cognixia-8am/
+#ls -lrt
+#ls lart
+#s -lart
+#ls -lart
+#git status
+#git branch kirantamhane
+#git branch
+#git branch kirantamhane
+#git checkout kirantamhane
+#git branch
+#pwd
+#ls -lrt
+#vi devops-cicd-pipeline
+#git status
+#git add .
+#git status
+#git commit -m "FirstCommit"
+#git status
+#git push -u origin kirantamhane
